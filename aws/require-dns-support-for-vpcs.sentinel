@@ -23,3 +23,5 @@ validated = length(violatingSupportVPCs["messages"]) is 0 and length(violatingHo
 main = rule {
   validated
 }
+
+
