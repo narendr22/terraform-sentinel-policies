@@ -35,3 +35,5 @@ violatingAWSResources =
 main = rule {
   length(violatingAWSResources["messages"]) is 0
 }
+
+
