@@ -34,5 +34,5 @@ violations = length(EC2InstancesWithoutEnvironmentTag["messages"]) + length(EC2I
 main = rule {
   violations is 0
 }
-
-
+123
+123
